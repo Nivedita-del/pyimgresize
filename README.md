@@ -45,7 +45,7 @@ For testing 20 image it took 1 min 13 secs with different resolution, and the fi
 
 
 
-Current Approach:
+## Current Approach:
 
 
 
